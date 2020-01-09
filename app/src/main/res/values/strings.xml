@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StringResource26112019</string>
+    <string name="label_title">Đăng nhập hệ thống</string>
+    <string name="label_account">Nhập tài khoản</string>
+    <string name="label_password">Nhập mật khẩu</string>
+    <string name="label_login">Đăng nhập</string>
+    <string name="label_showaccount">"Tai khoan "</string>
+    <string name="label_showpass">"Mat khau "</string>
+</resources>
